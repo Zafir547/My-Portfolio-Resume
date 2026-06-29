@@ -115,7 +115,7 @@ sections.forEach(s => revealObserver.observe(s));
 
 // ── Typewriter ────────────────────────────────────────
 const phrases = [
-  'AI / ML Developer',
+  'AI Developer',
   'Deep Learning Engineer',
   'NLP Practitioner',
   'Computer Vision Builder',
